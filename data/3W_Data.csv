@@ -1,0 +1,126 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;Philippine Red Cross;Assessment;Assessment;Assessment;209;20901;;Finished;area;1
+2;Philippine Red Cross;Assessment;Assessment;Interview;209;20901;San Antonio;Finished;Individuals;255
+3;Philippine Red Cross;Health;Health;CHV Training;209;20901;San Antonio;Finished;Individuals;17
+4;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;San Antonio;Finished;Individuals;22
+5;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;322
+6;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;99
+7;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;269
+8;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;238
+9;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20902;;Finished;Individuals;173
+10;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;Kayhuvokan;Finished;Individuals;18
+11;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;San Antonio;Finished;Individuals;10
+12;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20902;;Finished;Individuals;50
+13;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20902;;Finished;Individuals;50
+14;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;45
+15;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;21
+16;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20902;;Finished;Individuals;193
+17;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;235
+18;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;San Joaquin;Finished;Individuals;96
+19;Philippine Red Cross;Health;PSS;Psychosocial Support Activities;209;20901;;Finished;Individuals;32
+20;Philippine Red Cross;Health;PSS;SOS Trained;209;20901;San Antonio;Finished;Individuals;48
+21;Philippine Red Cross;Health;PSS;SOS Trained;209;20901;;Finished;Individuals;19
+22;Philippine Red Cross;Health;PSS;SOS Trained;209;20901;;Finished;Individuals;35
+23;Philippine Red Cross;Health;PSS;SOS Trained;209;20901;;Finished;Individuals;24
+24;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20901;Chanarian;Finished;Families;79
+25;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20901;Joaquin;Finished;Families;80
+26;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20901;San Antonio;Finished;Families;255
+27;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Raela;Finished;Families;99
+28;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;San Rafael;Finished;Families;175
+29;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Lucia;Finished;Families;135
+30;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Maria;Finished;Families;84
+31;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Rosa;Finished;Families;138
+32;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;San Rafael;Finished;Families;21
+33;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Lucia;Finished;Families;32
+34;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Maria;Finished;Families;84
+35;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Blanket;209;20902;Sta Rosa;Finished;Families;26
+36;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20901;Chanarian;Finished;Families;79
+37;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20901;Joaquin;Finished;Families;80
+38;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20901;San Antonio;Finished;Families;255
+39;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Raela;Finished;Families;99
+40;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;San Rafael;Finished;Families;175
+41;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Lucia;Finished;Families;135
+42;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Maria;Finished;Families;84
+43;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Rosa;Finished;Families;138
+44;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;San Rafael;Finished;Families;21
+45;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Lucia;Finished;Families;32
+46;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Maria;Finished;Families;84
+47;New Zealand AID;Shelter;Non-Food Items;(Sleeping Kit) Mosquito Net;209;20902;Sta Rosa;Finished;Families;26
+48;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20901;Chanarian;Finished;Families;79
+49;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20901;Joaquin;Finished;Families;80
+50;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20901;San Antonio;Finished;Families;255
+51;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Raela;Finished;Families;99
+52;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;San Rafael;Finished;Families;175
+53;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Lucia;Finished;Families;135
+54;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Maria;Finished;Families;84
+55;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Rosa;Finished;Families;138
+56;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;San Rafael;Finished;Families;21
+57;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Lucia;Finished;Families;32
+58;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Maria;Finished;Families;84
+59;Canadian RC;Shelter;Non-Food Items;(Sleeping Kit) Sleeping Mat;209;20902;Sta Rosa;Finished;Families;26
+60;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20901;Kaychanarianan;Finished;Families;4
+61;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20901;Kayvaluganan;Finished;Families;61
+62;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20901;San Antonio;Finished;Families;102
+63;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20901;San Joaquin;Finished;Families;40
+64;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Kayhuvokan;Finished;Families;16
+65;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Santa Lucia;Finished;Families;90
+66;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Santa Maria;Finished;Families;68
+67;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Raele;Finished;Families;24
+68;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;San Rafael;Finished;Families;104
+69;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Santa Rosa;Finished;Families;107
+70;Spanish RC;Shelter;Shelter;Provision of Conditional Cash Grant;209;20902;Sitio Yawran;Finished;Families;46
+71;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20901;Chanarian;Finished;Families;79
+72;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20901;Joaquin;Finished;Families;80
+73;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20901;San Antonio;Finished;Families;255
+74;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Raela;Finished;Families;99
+75;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;San Rafael;Finished;Families;175
+76;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Lucia;Finished;Families;135
+77;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Maria;Finished;Families;84
+78;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Rosa;Finished;Families;138
+79;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;San Rafael;Finished;Families;4
+80;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Lucia;Finished;Families;11
+81;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Maria;Finished;Families;84
+82;Netherlands RC;Shelter;Non-Food Items;Tarpaulin;209;20902;Sta Rosa;Finished;Families;26
+83;Philippine Red Cross;Volunteer Service;Volunteer;ODK trained volunteers;209;20901;San Antonio;Finished;individuals;14
+84;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;San Antonio;Finished;Individuals;22
+85;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;Chanarian;Finished;Individuals;18
+86;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;Kayvaluganan;Finished;Individuals;22
+87;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;Kaychanarianan;Finished;Individuals;16
+88;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;San Joaquin;Finished;Individuals;13
+89;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;Kayhuvokan;Finished;Individuals;51
+90;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;35
+91;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;15
+92;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;40
+93;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;15
+94;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;24
+95;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20902;;Finished;Individuals;24
+96;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;Chanarian;Finished;Individuals;3
+97;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;13
+98;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;25
+99;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;San Antonio;Finished;Individuals;53
+100;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;2
+101;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;san Joaquin;Finished;Individuals;6
+102;Philippine Red Cross;Volunteer Service;Volunteer;Orientation and Recruitment;209;20901;;Finished;Individuals;32
+103;Philippine Red Cross;Volunteer Service;PSS;SOS Trained;209;20901;;Finished;Individuals;5
+104;Philippine Red Cross;Volunteer Service;Volunteer Service;Validated beneficiaries;209;20901;San Antonio;Finished;Individuals;9
+105;Philippine Red Cross;Volunteer Service;Volunteer Service;Validated beneficiaries;209;;san antonio;Finished;Individuals;48
+106;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20901;Chanarian;Finished;Families;79
+107;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20901;Joaquin;Finished;Families;80
+108;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20901;San Antonio;Finished;Families;255
+109;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Raela;Finished;Families;99
+110;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;San Rafael;Finished;Families;175
+111;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Lucia;Finished;Families;135
+112;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Maria;Finished;Families;84
+113;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Rosa;Finished;Families;138
+114;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;San Rafael;Finished;Families;21
+115;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Lucia;Finished;Families;32
+116;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Maria;Finished;Families;84
+117;New Zealand AID;WASH;Non-Food Items;Hygiene Kit;209;20902;Sta Rosa;Finished;Families;26
+118;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20901;San Antonio;Finished;Individuals;90
+119;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20901;San Antonio;Finished;Individuals;157
+120;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20902;;Finished;Individuals;232
+121;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20902;;Finished;Individuals;29
+122;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20902;;Finished;Individuals;166
+123;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20902;;Finished;Individuals;50
+124;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;209;20902;;Finished;Individuals;16
+125;Philippine Red Cross;Welfare;Welfare;Validated beneficiaries;209;20901;San Antonio;Finished;Individuals;93
